@@ -1,0 +1,6 @@
+﻿[憑證]
+1. Altium Designer PCB Library，可提供教學及商業，公開使用。
+2. 有需要將檔案轉發到其他區域，或使用github連結，請提供原出處及作者名稱。
+3. 作者：呂振杰 Lu-Chenchieh
+4. Email：ericdata11@gmail.com
+5. LIN ID：ericdata11
